@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-=======
 #include <stdio.h>
-main()
+int main()
 {
-    printf("hello,[Siriwan]");
+    char Siriwan[100];
+    printf("What is your name?\t");
+    scanf("%"Siriwan);
+     printf(hello,%\n",Siriwan);
 }
->>>>>>> a07da71e956ad2cf5b2e6f1778e19edaa0d585cd
