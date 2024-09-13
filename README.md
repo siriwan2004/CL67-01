@@ -1,5 +1,8 @@
 #include <stdio.h>
-main()
+int main()
 {
-    printf("hello,[Siriwan]\n");
+    char Siriwan[100];
+    printf("What is your name?\t");
+    scanf("%s",Siriwan);
+     printf("hello,%s\n",Siriwan);
 }
